@@ -1,0 +1,2 @@
+Select  Sum(POPULATION) from CITY
+Where DISTRICT='California';
